@@ -54,7 +54,8 @@ plt.imshow(edges1)
 ## Output
 
 ### Input image and grayscale image
-![download](https://user-images.githubusercontent.com/118707669/233272226-94f40283-565a-49b6-b619-47623d29d3e5.png)
+
+![download](https://user-images.githubusercontent.com/118707669/233273012-002bc861-6e5f-4e2e-a5c9-0c1b6b862421.png)
 
 
 
